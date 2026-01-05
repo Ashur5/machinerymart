@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "GloberSemiBold";
+  src: url("./assets/glober/GloberSemiBoldFree.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "GloberSemiBold", sans-serif;
+}
+html, body {
+  overflow-x: hidden;
+}
+
